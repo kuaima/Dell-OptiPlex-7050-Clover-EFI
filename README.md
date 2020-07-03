@@ -1,6 +1,7 @@
 # Dell-OptiPlex-7050-Clover-EFI
 
 Clover for OptiPlex 7050 with Skylake CPU &amp; GPU with macOS 10.15.5
+
 专用于Dell OptiPlex 7050的黑苹果Clover配置，基本是第二级可用状态，可以作为办公主力机器使用。
 
 其实折腾了很久，过程有点曲折，最终效果不错，系统升级到macOS 10.15.5，双显问题解决，7m显卡解决，作为全栈研发的主力机可用。
